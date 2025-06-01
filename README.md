@@ -2,7 +2,7 @@
 
 This is the central hub for all projects developed under the **Gregovate** profile. Projects are grouped by functional area to support hardware automation, Home Assistant integrations, sensor platforms, and open-source utility builds.
 
-...
+---
 
 ## 🔖 Badge Key
 
@@ -62,7 +62,7 @@ ESP-based pan/tilt system for automating camera angles. Supports Home Assistant 
 
 ## 🚐 RV Automation Projects
 
-### [rv-fridge-fan-controller](https://github.com/Gregovate/rv-fridge-fan-controller)\$1
+### [rv-fridge-fan-controller](https://github.com/Gregovate/rv-fridge-fan-controller)
 
 <details>
 <summary>📄 Monetization Notes, License, and GitIgnore</summary>
