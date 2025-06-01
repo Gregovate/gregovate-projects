@@ -116,12 +116,10 @@ Version-controlled Home Assistant configuration with Git integration, secrets ma
 ### rv-power-monitor *(planned)*
 
 Victron Energy + MQTT dashboard sensor aggregation, template power metrics, and inverter/charger monitoring.
-(Planned) Victron Energy + MQTT dashboard sensor aggregation, template power metrics, and inverter/charger monitoring.
 
 ### rv-generator-control *(planned)*
 
 Smart generator automation system for RV use with quiet hour control, load triggers, and Home Assistant integration.
-(Planned) Smart generator automation system for RV use with quiet hour control, load triggers, and Home Assistant integration.
 
 ---
 
@@ -130,17 +128,14 @@ Smart generator automation system for RV use with quiet hour control, load trigg
 ### esphome-components-gregovate *(planned)*
 
 Reusable ESPHome YAML components and logic blocks for sensors and automation.
-Planned collection of reusable ESPHome YAML snippets, sensors, and binary sensors developed across all projects.
 
 ### rv-3d-printed-parts *(planned)*
 
 Custom housings, ducts, and mounts used across RV projects (STL-based).
-STL files for all custom housings, ducts, and mounting hardware — compatible with fan controllers, sensors, and more.
 
 ### rv-pcb-designs *(planned)*
 
 PCB layout and designs for D1 Mini breakouts, sensor shields, and power boards.
-Gerber and Fusion 360 files for in-house PCB builds, including protoboard migration and power sensing boards.
 
 ---
 
