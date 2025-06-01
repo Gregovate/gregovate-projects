@@ -62,49 +62,7 @@ ESP-based pan/tilt system for automating camera angles. Supports Home Assistant 
 
 ## 🚐 RV Automation Projects
 
-### [rv-fridge-fan-controller](https://github.com/Gregovate/rv-fridge-fan-controller)
-
-<details>
-<summary>📄 Monetization Notes, License, and GitIgnore</summary>
-
-#### `.gitignore`
-
-```gitignore
-# Fusion 360 source files
-hardware/*.f3d
-3d/*.f3d
-
-# Editable PCB source
-hardware/*.brd
-hardware/*.sch
-hardware/*.gbr
-hardware/*.kicad*
-
-# Sensitive or internal configs
-firmware/secrets.yaml
-firmware/private_*.yaml
-*.env
-
-# Version control clutter
-*.log
-*.db
-__pycache__/
-.idea/
-.vscode/
-.DS_Store
-```
-
-#### License
-
-This project is published for educational and non-commercial use only.
-
-* All original CAD files, circuit designs, and source YAML configurations remain the intellectual property of the author.
-* You may not resell, redistribute, or modify source assets without explicit permission.
-* Commercial use (including kits, clones, or derivatives) is prohibited under Creative Commons BY-NC 4.0.
-
-© 2024–2025 Gregovate. All rights reserved.
-
-</details>
+
 ![Status](https://img.shields.io/badge/status-in_testing-yellow) ![Platform](https://img.shields.io/badge/platform-ESPHome-blue) ![Power Optimized](https://img.shields.io/badge/power_optimized-yes-brightgreen)
 Dual-fan PWM-based airflow control system for RV refrigerators. ESPHome-controlled, with freeze protection and energy efficiency.
 
