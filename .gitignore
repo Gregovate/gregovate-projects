@@ -1,0 +1,22 @@
+# Fusion 360 source files
+hardware/*.f3d
+3d/*.f3d
+
+# Editable PCB source
+hardware/*.brd
+hardware/*.sch
+hardware/*.gbr
+hardware/*.kicad*
+
+# Sensitive or internal configs
+firmware/secrets.yaml
+firmware/private_*.yaml
+*.env
+
+# Version control clutter
+*.log
+*.db
+__pycache__/
+.idea/
+.vscode/
+.DS_Store
