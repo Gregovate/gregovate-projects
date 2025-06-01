@@ -113,28 +113,33 @@ Dual-fan PWM-based airflow control system for RV refrigerators. ESPHome-controll
 ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Platform](https://img.shields.io/badge/platform-Home_Assistant-blue) ![Secrets Managed](https://img.shields.io/badge/secrets-managed-lightgrey)
 Version-controlled Home Assistant configuration with Git integration, secrets management, and organized package-based structure.
 
-### [rv-power-monitor](#)
+### rv-power-monitor *(planned)*
 
+Victron Energy + MQTT dashboard sensor aggregation, template power metrics, and inverter/charger monitoring.
 (Planned) Victron Energy + MQTT dashboard sensor aggregation, template power metrics, and inverter/charger monitoring.
 
-### [rv-generator-control](#)
+### rv-generator-control *(planned)*
 
+Smart generator automation system for RV use with quiet hour control, load triggers, and Home Assistant integration.
 (Planned) Smart generator automation system for RV use with quiet hour control, load triggers, and Home Assistant integration.
 
 ---
 
 ## 🧰 Utilities & Shared Assets
 
-### [esphome-components-gregovate](#)
+### esphome-components-gregovate *(planned)*
 
+Reusable ESPHome YAML components and logic blocks for sensors and automation.
 Planned collection of reusable ESPHome YAML snippets, sensors, and binary sensors developed across all projects.
 
-### [rv-3d-printed-parts](#)
+### rv-3d-printed-parts *(planned)*
 
+Custom housings, ducts, and mounts used across RV projects (STL-based).
 STL files for all custom housings, ducts, and mounting hardware — compatible with fan controllers, sensors, and more.
 
-### [rv-pcb-designs](#)
+### rv-pcb-designs *(planned)*
 
+PCB layout and designs for D1 Mini breakouts, sensor shields, and power boards.
 Gerber and Fusion 360 files for in-house PCB builds, including protoboard migration and power sensing boards.
 
 ---
