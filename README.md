@@ -27,6 +27,9 @@ This is the central hub for all projects developed under the **Gregovate** profi
 * ![Power Optimized](https://img.shields.io/badge/power_optimized-yes-brightgreen): Designed for energy efficiency
 * ![Secrets Managed](https://img.shields.io/badge/secrets-managed-lightgrey): Uses structured secret handling
 * ![Storage](https://img.shields.io/badge/storage-LittleFS-lightgrey): Filesystem-based data persistence
+* ![Storage](https://img.shields.io/badge/storage-SQLite-lightgrey): Relational storage using embedded SQLite database
+* ![Language](https://img.shields.io/badge/language-Python-blue): Primary scripting language
+
 
 \--- for all projects developed under the **Gregovate** profile. Projects are grouped by functional area to support hardware automation, Home Assistant integrations, sensor platforms, and open-source utility builds.
 
@@ -34,12 +37,19 @@ This is the central hub for all projects developed under the **Gregovate** profi
 
 ## 🧠 Making Spirits Bright (MSB)
 
-### [msb-gate-counter](https://github.com/Gregovate/msb-gate-counter)
+### [MSB-Production-Database-Project](https://github.com/Gregovate/MSB-Production-Database-Project)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Platform](https://img.shields.io/badge/platform-Home_Assistant-blue) ![Language](https://img.shields.io/badge/language-Python-blue) ![Storage](https://img.shields.io/badge/storage-SQLite-lightgrey)
+A database-driven project for managing light show sequencing, prop data, and show setup logistics in the Making Spirits Bright event.
+
+ 
+A database-driven project for managing light show sequencing, prop data, and show setup logistics in the Making Spirits Bright event.
+
+### [MSB-Gate-Counter](https://github.com/Gregovate/msb-gate-counter)
 
 ![Status](https://img.shields.io/badge/status-stable-brightgreen) ![Platform](https://img.shields.io/badge/platform-ESP32-blue)
 Gate counter system used at Making Spirits Bright, utilizing beam sensors and magnetic detection for accurate visitor tracking.
 
-### [msb-car-counter](https://github.com/Gregovate/msb-car-counter)
+### [MSB-Car-Counter](https://github.com/Gregovate/msb-car-counter)
 
 ![Status](https://img.shields.io/badge/status-stable-brightgreen) ![Platform](https://img.shields.io/badge/platform-ESP32-blue) ![Storage](https://img.shields.io/badge/storage-LittleFS-lightgrey)
 Standalone vehicle counting system leveraging ESP32, MQTT reporting, and backup storage using LittleFS.
